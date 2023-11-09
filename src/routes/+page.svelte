@@ -66,8 +66,8 @@
     {/if}
 
     <slot/>
-    <div class="p-3 text-center mt-10 flex flex-col gap-5 md:pt-[100px]">
-        <h1 class="text-secondary-blue text-4xl font-extrabold md:text-7xl ">
+    <div class="p-3 text-center mt-10 flex flex-col gap-5 lg:pt-[50px]">
+        <h1 class="text-secondary-blue text-4xl font-extrabold md:text-7xl">
             We Are
             <br/>
             Nairobi Gophers
@@ -78,7 +78,7 @@
             experiences adopting the language.
         </p>
 
-        <a class="my-5 p-5 bg-primary-blue text-white rounded mx-auto font-extrabold"
+        <a class="p-5 bg-primary-blue text-white rounded mx-auto font-extrabold"
            href="https://www.meetup.com/Nairobi-Gophers/" target="_blank">
             Find us on Meetup
         </a>
